@@ -13,7 +13,7 @@
 
 **To contact me**
 
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/muhammadamin/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:idywahhid@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Gmail&logoColor=white)](https://t.me/m_muhammadkomilov/)
 
 ---
