@@ -31,8 +31,8 @@ Xavfsiz chat platformasi do'stlar uchun — real-time messaging, modern glassmor
 ---
 
 ## Life blog
-Technical va non-technical hikoyalar burada...
-- 🔗 [Barcha postlar](https://github.com/idywahhid/repo)
+I write about non-technical stuff in the technical world.
+- 🔗 [View all posts](https://github.com/idywahhid/repo)
 
 ---
 
