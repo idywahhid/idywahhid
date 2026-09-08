@@ -8,8 +8,8 @@
 **Backend Developer | Python Enthusiast | Linux & Git Advocate**
 
 ![Footer](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square&logo=github)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-blue?style=flat-square)
 ![GitHub](https://img.shields.io/github/followers/idywahhid?label=Follow&style=social)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-blue?style=flat-square)
 
 **To contact me**
 
