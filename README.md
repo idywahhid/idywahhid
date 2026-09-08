@@ -27,7 +27,7 @@ Backend developer. I write about non-technical stuff in the technical world.
 ### Wahhid 
 Xavfsiz chat platformasi do'stlar uchun — real-time messaging, modern glassmorphism dizayn.
 - **Stack:** React, FastAPI, WebSocket
-- 🔗 [Repository](https://github.com/idywahhid/)
+- 🔗 [Repository](https://github.com/idywahhid/) beta-test
 
 
 ---
