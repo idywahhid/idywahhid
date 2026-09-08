@@ -1,7 +1,5 @@
 
 <body id="top">
-
-  <p>Beta test</p>
   
 # 👋 Hello, this Muhammadamin Muhammadkomilov
 
