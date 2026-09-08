@@ -32,7 +32,7 @@ Xavfsiz chat platformasi do'stlar uchun — real-time messaging, modern glassmor
 
 ## Life blog
 Technical va non-technical hikoyalar burada...
-- 🔗 [Barcha postlar](https://)
+- 🔗 [Barcha postlar](https://github.com/idywahhid/repo)
 
 ---
 
