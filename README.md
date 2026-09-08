@@ -20,11 +20,7 @@
 
 # **About**
 
-Backend dasturchi sifatida men quyidagi sohalarda ishlayapman:
-- 🐍 **Python** bilan server-side ilovalari yaratish
-- 🗄️ **Veritabaza** dizayni va optimizatsiyasi
-- 🖥️ **Linux** serverlarida deployment va boshqarish
-- 📱 Scalable web servicelari yashil qilish
+Backend developer. I write about non-technical stuff in the technical world.
 
 ### Tech Stack
 
