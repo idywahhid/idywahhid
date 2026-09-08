@@ -1,7 +1,7 @@
 
 <body id="top">
   
-# 👋 Hello, this Muhammadamin Muhammadkomilov
+# 👋 Hello, this Muhammadamin M
 
 **Backend Developer | Python Enthusiast | Linux & Git Advocate**
 
