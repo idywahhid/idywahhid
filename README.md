@@ -3,13 +3,17 @@
 
   <p>Beta test</p>
   
-# 👋 Hello this Muhammadamin Muhammadkomilov
+# 👋 Hello, this Muhammadamin Muhammadkomilov
 
 **Backend Developer | Python Enthusiast | Linux & Git Advocate**
 
 ![Footer](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square&logo=github)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-blue?style=flat-square)
 ![GitHub](https://img.shields.io/github/followers/idywahhid?label=Follow&style=social)
+
+# **About**
+
+Backend developer. I write about non-technical stuff in the technical world.
 
 **To contact me**
 
@@ -18,9 +22,21 @@
 
 ---
 
-# **About**
+## My simple solutions
 
-Backend developer. I write about non-technical stuff in the technical world.
+### Wahhid 
+Xavfsiz chat platformasi do'stlar uchun — real-time messaging, modern glassmorphism dizayn.
+- **Stack:** React, FastAPI, WebSocket
+- 🔗 [Repository](https://github.com/idywahhid/)
+
+
+---
+
+## Life blog
+Technical va non-technical hikoyalar burada...
+- 🔗 [Barcha postlar](https://)
+
+---
 
 ### Tech Stack
 
