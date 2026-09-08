@@ -11,7 +11,7 @@
 
 # **About**
 
-Backend developer. I write about non-technical stuff in the technical world.
+Backend developer.
 
 **To contact me**
 
