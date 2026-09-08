@@ -1,60 +1,53 @@
-<!-- MINIMAL HEADER & ANIMATED BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e293b&height=180&section=header&text=Muhammadamin%20Muhammadkomilov&fontSize=32&fontColor=f8fafc&animation=fadeIn&desc=Backend%20Developer%20%7C%20Economist&descSize=16&descColor=94a3b8&descAlignY=62" width="100%" />
+
+<body id="top">
+
+  <p>Beta test</p>
+  
+# 👋 Hello this Muhammadamin Muhammadkomilov
+
+**Backend Developer | Python Enthusiast | Linux & Git Advocate**
+
+![Footer](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square&logo=github)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-blue?style=flat-square)
+![GitHub](https://img.shields.io/github/followers/idywahhid?label=Follow&style=social)
+
+**To contact me**
+
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/muhammadamin/)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Gmail&logoColor=white)](https://t.me/m_muhammadkomilov/)
+
+---
+
+# **About**
+
+Backend dasturchi sifatida men quyidagi sohalarda ishlayapman:
+- 🐍 **Python** bilan server-side ilovalari yaratish
+- 🗄️ **Veritabaza** dizayni va optimizatsiyasi
+- 🖥️ **Linux** serverlarida deployment va boshqarish
+- 📱 Scalable web servicelari yashil qilish
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=sql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-<!-- DYNAMIC TYPING SVG -->
-<p align="center">
-  <a href="https://github.com/idywahhid">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=Python+%26+Database+Engineering;Kokand+University+Student+(2nd+Year);Economist+at+RSPMCDK+AF" alt="Typing SVG" />
-  </a>
-</p>
+---
 
-<br/>
+<div style="text-align: center;">
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Vq0sQ79QIZV6V1R-t7qtmw.gif" alt="Profile-gif" width="100%">
+</div>
 
-<!-- PROFILE OVERVIEW -->
-<p align="center"><b>ABOUT ME</b></p>
-<p align="center">
-  <i>Computer Science student and Backend enthusiast focused on building reliable systems and data workflows.</i>
-</p>
+<div style="text-align: center; margin-top: 30px;">
+  <img src="https://media.giphy.com/media/13HgknGQSzVI20/giphy.gif" alt="Retro Gaming" width="100%">
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Education-Kokand_University_AF-slate?style=flat-square&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Occupation-Economist_at_RSPMCDK_AF-slate?style=flat-square&logo=building&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certificate-Express_Backend_(42.uz)-slate?style=flat-square&logo=degree&logoColor=white" />
-</p>
-
-<br/>
-
-<!-- TECH STACK (MINIMAL & CLASSIC) -->
-<h4 align="center">Tech Stack & Tools</h4>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-<hr style="border: 0.5px solid #334155;" />
-
-<!-- MINIMAL STATS -->
-<h4 align="center">GitHub Activity</h4>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idywahhid&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idywahhid&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idywahhid&theme=dark&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="97%" />
-</p>
-
-<br/>
-
-<!-- MINIMAL FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e293b&height=30&section=footer" width="100%" />
-</p>
+</body>
