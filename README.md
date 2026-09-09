@@ -22,10 +22,10 @@ Backend developer.
 
 ## My simple solutions
 
-### Wahhid 
-Xavfsiz chat platformasi do'stlar uchun — real-time messaging, modern glassmorphism dizayn.
-- **Stack:** React, FastAPI, WebSocket
-- 🔗 [Repository](https://github.com/idywahhid/) beta-test
+### Telegram-bot
+Chatbot.
+- **Stack:** Python, SQL, PostgreSQL
+- 🔗 [Repository](https://github.com/idywahhid/) beta-test Under development
 
 
 ---
