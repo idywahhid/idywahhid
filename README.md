@@ -34,7 +34,7 @@ Xavfsiz chat platformasi do'stlar uchun — real-time messaging, modern glassmor
 I write about non-technical stuff in the technical world.
 - 🔗 [View all posts](https://github.com/idywahhid/repo/blob/main/index.md)
 > git-blog info
-> [README.md](./README.md)
+> [README.md](https://github.com/idywahhid/git-blog/blob/main/README.md)
 
 ---
 
