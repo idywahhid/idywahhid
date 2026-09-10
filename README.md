@@ -23,8 +23,8 @@ Backend developer.
 ## My simple solutions
 
 ### Telegram-bot
-Chatbot.
-- **Stack:** Python, SQL, PostgreSQL
+Yordamchi-bot
+- **Stack:** Python aiogram 3.9, SQL, PostgreSQL
 - 🔗 [Repository](https://github.com/idywahhid/) beta-test Under development
 
 
