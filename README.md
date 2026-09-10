@@ -30,9 +30,8 @@ Chatbot.
 
 ---
 
-## Life **git-blog**
+## **git-blog**
 I write about non-technical stuff in the technical world.
-- 🔗 [View all posts](https://github.com/idywahhid/repo/blob/main/index.md)
 > git-blog info
 > [README.md](https://github.com/idywahhid/git-blog/blob/main/README.md)
 
