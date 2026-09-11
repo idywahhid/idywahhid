@@ -24,7 +24,7 @@ Backend developer.
 
 ### idywahhid — shaxsiy blog
 
-- Flask asosida qurilgan, terminal/kod estetikasidagi shaxsiy blog va kundalik platformasi. Qorong'i tungi tema, $ prompt uslubi va to'liq funksional admin panel bilan.
+> Flask asosida qurilgan, terminal/kod estetikasidagi shaxsiy blog va kundalik platformasi. Qorong'i tungi tema, $ prompt uslubi va to'liq funksional admin panel bilan.
 - 🔗 [Repository](https://github.com/idywahhid/veb_blog)
 
 
