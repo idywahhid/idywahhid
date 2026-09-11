@@ -17,6 +17,7 @@ Backend developer.
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:idywahhid@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Gmail&logoColor=white)](https://t.me/m_muhammadkomilov/)
+[![Channel](https://img.shields.io/badge/-Telegram-good?style=flat-square&logo=Gmail&logoColor=white)](https://t.me/idywahhid/)
 
 ---
 
