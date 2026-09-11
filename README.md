@@ -22,21 +22,20 @@ Backend developer.
 
 ## My simple solutions
 
-### Telegram-bot
-Yordamchi-bot
-- **Stack:** Python aiogram 3.9, SQL, PostgreSQL
-- 🔗 [Repository](https://github.com/idywahhid/) beta-test Under development
+### 
+- 
+- 🔗 [](https://github.com/idywahhid/) beta-test Under development
 
 
 ---
+### git-blog
 
-> **git-blog all articles**
+I write about non-technical stuff in the technical world.
+> - **git-blog all articles**
 > [index.md](https://github.com/idywahhid/git-blog/blob/main/index.md)
-> 
-> **git-blog info**
+> - **git-blog info**
 > [README.md](https://github.com/idywahhid/git-blog/blob/main/README.md)
-> 
-> **git-blog community & feedback**
+> - **git-blog community & feedback**
 > [Discussions / Savol-javob](https://github.com/idywahhid/git-blog/discussions/1)
 > [CONTRIBUTING.md](https://github.com/idywahhid/git-blog/blob/main/CONTRIBUTING.md)
 
