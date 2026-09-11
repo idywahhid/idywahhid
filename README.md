@@ -15,10 +15,9 @@ Backend developer.
 
 **To contact me**
 
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:idywahhid@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Gmail&logoColor=white)](https://t.me/m_muhammadkomilov/)
-[![Channel](https://img.shields.io/badge/-Telegram-good?style=flat-square&logo=Gmail&logoColor=white)](https://t.me/idywahhid/)
-
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:idywahhid@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/m_muhammadkomilov/)
+[![Channel](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/idywahhid/)
 ---
 
 ## My simple solutions
