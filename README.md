@@ -33,9 +33,9 @@ Yordamchi-bot
 ## **git-blog**
 I write about non-technical stuff in the technical world.
 
-> All articles
+> git-blog all articles
 > [index.md](https://github.com/idywahhid/git-blog/blob/main/index.md)
-
+>
 > git-blog info
 > [README.md](https://github.com/idywahhid/git-blog/blob/main/README.md)
 
