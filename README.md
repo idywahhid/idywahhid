@@ -31,13 +31,13 @@ Backend developer.
 ### git-blog
 
 I write about non-technical stuff in the technical world.
-> - **git-blog all articles**
-> [index.md](https://github.com/idywahhid/git-blog/blob/main/index.md)
-> - **git-blog info**
-> [README.md](https://github.com/idywahhid/git-blog/blob/main/README.md)
-> - **git-blog community & feedback**
-> [Discussions / Savol-javob](https://github.com/idywahhid/git-blog/discussions/1)
-> [CONTRIBUTING.md](https://github.com/idywahhid/git-blog/blob/main/CONTRIBUTING.md)
+ - **git-blog all articles**
+ [index.md](https://github.com/idywahhid/git-blog/blob/main/index.md)
+ - **git-blog info**
+ [README.md](https://github.com/idywahhid/git-blog/blob/main/README.md)
+ - **git-blog community & feedback**
+ [Discussions / Savol-javob](https://github.com/idywahhid/git-blog/discussions/1)
+ [CONTRIBUTING.md](https://github.com/idywahhid/git-blog/blob/main/CONTRIBUTING.md)
 
 ---
 
