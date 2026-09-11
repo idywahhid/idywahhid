@@ -22,7 +22,9 @@ Backend developer.
 
 ## My simple solutions
 
-### 
+### idywahhid — shaxsiy blog
+
+Flask asosida qurilgan, terminal/kod estetikasidagi shaxsiy blog va kundalik platformasi. Qorong'i tungi tema, $ prompt uslubi va to'liq funksional admin panel bilan.
 - 
 - 🔗 [](https://github.com/idywahhid/) beta-test Under development
 
