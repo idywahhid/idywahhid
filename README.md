@@ -26,7 +26,7 @@ Backend developer.
 
 Flask asosida qurilgan, terminal/kod estetikasidagi shaxsiy blog va kundalik platformasi. Qorong'i tungi tema, $ prompt uslubi va to'liq funksional admin panel bilan.
 - 
-- 🔗 [R](https://github.com/idywahhid/veb_blog)
+- 🔗 [Repository](https://github.com/idywahhid/veb_blog)
 
 
 ---
